@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "431382567921",
+    "project_id": "movie-on-the-go-15d54",
+    "storage_bucket": "movie-on-the-go-15d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431382567921:android:2e80eb260e871151e70250",
+        "android_client_info": {
+          "package_name": "com.example.Movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431382567921-b033iqi029op26e1ldo7bro4hv1r56i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Movie",
+            "certificate_hash": "fdf9c5fc4b4548f7086d5b35eaf1400bdcdca12d"
+          }
+        },
+        {
+          "client_id": "431382567921-grkv39k28ek31im8ks9rhvr6n622j31t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVaBe0tjEUNBcMrm3HtIYgutu1W2HdDFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431382567921-grkv39k28ek31im8ks9rhvr6n622j31t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
